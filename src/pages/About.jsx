@@ -33,16 +33,13 @@ const About = () => {
       <section className="mb-12">
         <div className="space-y-4 text-gray-300 leading-relaxed">
           <p>
-            I'm a Full-stack Developer specializing in the MERN stack, with a heavy focus on frontend interface engineering, passionate about building visually engaging
-            and high-performance web experiences. Skilled in React, JavaScript, and modern UI development, with a growing interest in 3D, animation,
-            and motion design.
+            I'm a Full-stack Developer specializing in the MERN stack, with a heavy focus on frontend interface engineering, passionate about building visually engaging and high-performance web experiences.
           </p>
           <p>
-            I love blending design, motion, and logic to craft interfaces that
-            feel alive — not just look good. I often experiment with tools like
-            GSAP, Three.js, and Framer Motion to add motion and depth to my
-            projects. Constantly learning and experimenting to push the
-            boundaries of what's possible on the web.
+            Skilled in React, JavaScript, and modern UI development, with a growing interest in 3D, animation, and motion design.
+          </p>
+          <p>
+            I love blending design, motion, and logic to craft interfaces that feel alive — not just look good. I often experiment with tools like GSAP, Three.js, and Framer Motion to add motion and depth to my projects. Constantly learning and experimenting to push the boundaries of what's possible on the web.
           </p>
         </div>
       </section>
