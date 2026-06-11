@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 const MobileNavbar = () => {
   const navItems = [
     { id: '/', label: 'Home' },
-    { id: '/portfolio', label: 'Projects' },
+    { id: '/projects', label: 'Projects' },
     { id: '/resume', label: 'Resume' }
   ];
 
