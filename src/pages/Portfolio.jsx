@@ -1,12 +1,12 @@
 import { PROJECTS } from '../constants/projects';
 import ProjectCard from '../components/ProjectCard';
 
-const Portfolio = () => {
+const Projects = () => {
   return (
     <div className="glass-card p-6 animate-fade-in-up">
       <header className="mb-8">
         <h2 className="text-2xl font-semibold text-white">
-          <span className="text-gradient-gold">Portfolio</span>
+          <span className="text-gradient-gold">Projects</span>
         </h2>
         <p className="text-gray-400 mt-2">Some of my recent projects and experiments</p>
       </header>
@@ -22,4 +22,4 @@ const Portfolio = () => {
   );
 };
 
-export default Portfolio;
+export default Projects;
