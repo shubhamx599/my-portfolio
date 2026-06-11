@@ -4,7 +4,7 @@ import Sidebar from '../sidebar/Sidebar';
 import MobileNavbar from './MobileNavbar';
 import DesktopNavbar from './DesktopNavbar';
 import About from '../../pages/About';
-import Portfolio from '../../pages/Portfolio';
+import Projects from '../../pages/Projects';
 import Resume from '../../pages/Resume';
 
 const Layout = () => {
@@ -19,7 +19,7 @@ const Layout = () => {
             <DesktopNavbar />
             <Routes>
               <Route path="/" element={<About />} />
-              <Route path="/portfolio" element={<Portfolio />} />
+              <Route path="/projects" element={<Projects />} />
               <Route path="/resume" element={<Resume />} />
             </Routes>
           </main>
