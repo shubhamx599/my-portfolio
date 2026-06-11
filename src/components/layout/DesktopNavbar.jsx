@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 const DesktopNavbar = () => {
   const navItems = [
     { id: '/', label: 'Home' },
-    { id: '/portfolio', label: 'Portfolio' },
+    { id: '/projects', label: 'Projects' },
     { id: '/resume', label: 'Resume' }
   ];
 
