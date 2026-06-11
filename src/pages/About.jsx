@@ -33,9 +33,8 @@ const About = () => {
       <section className="mb-12">
         <div className="space-y-4 text-gray-300 leading-relaxed">
           <p>
-            I'm a Frontend Developer passionate about building visually engaging
-            and high-performance web experiences. Skilled in React, JavaScript,
-            and modern UI development, with a growing interest in 3D, animation,
+            I'm a Full-stack Developer specializing in the MERN stack, with a heavy focus on frontend interface engineering, passionate about building visually engaging
+            and high-performance web experiences. Skilled in React, JavaScript, and modern UI development, with a growing interest in 3D, animation,
             and motion design.
           </p>
           <p>
